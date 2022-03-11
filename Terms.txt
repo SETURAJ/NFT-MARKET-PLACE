@@ -1,0 +1,19 @@
+-> What is pragma?
+* A pragma is a compiler directive that allows you to provide additional information to the compiler. This information can change compilation details that are not otherwise under your control. For example, the pack pragma affects the layout of data within a structure. Compiler pragmas are also called directives.
+
+-> What is ERC721?
+* ERC721(Ethereum Request for Comments 721).
+The ERC-721 standard allows an application to utilize the standard Ethereum API for NFTs within a smart contract. For example, the standards ensure that the NFTs can be transferred and tracked, ensuring a correct record of who owns the token. 
+
+* IERC721, IERC721Metadata, IERC721Enumerable these are three interfaces of EIP 
+
+
+-> What is NFT?
+* Non-Fungible Token means this is unique(can not replaced by any one)
+
+-> What is mint?
+* which means adding the data of a digital file to a blockchain.
+
+1. npx hardhat node
+2. npx hardhat run .\scripts\deploy.js --network localhost
+3. npm run dev
